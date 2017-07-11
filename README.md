@@ -1,4 +1,5 @@
-# GRAD
+# GRAD (Graduation Requirements and Advising Database)
+GRAD was built over the course of 8 weeks in UCSD's Software Engineering class. It provides UCSD students with the ability to view class prerequisites in a graph format and map out the courses they need to take in order to graduate.
 
 ## Team
 * Madel Asistio - Software Development Lead
